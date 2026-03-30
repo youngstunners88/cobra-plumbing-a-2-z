@@ -1,0 +1,20 @@
+{
+  "businessName": "Cobra Plumbing A 2 Z",
+  "category": "plumbing",
+  "brandColors": {
+    "primary": "#0E4C92",
+    "secondary": "#5DADE2",
+    "accent": "#E74C3C",
+    "dark": "#073666",
+    "light": "#EBF5FB"
+  },
+  "tagline": "Fast, Reliable, Leak-Free",
+  "services": [
+    "Emergency Repairs",
+    "Leak Detection",
+    "Pipe Installation",
+    "Drain Cleaning",
+    "Geyser Services",
+    "Bathroom Renovations"
+  ]
+}
